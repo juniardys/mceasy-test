@@ -36,7 +36,7 @@
                     <a href="{{ url('/') }}" class="nav-link active">
                         <i class="ph-house"></i>
                         <span>
-                            Dashboard
+                            Shift
                         </span>
                     </a>
                 </li>
